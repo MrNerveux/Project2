@@ -1,0 +1,4 @@
+ı type vim filename.txt
+then ı type: ı to start writing into the file
+to go out, and save what ı wrote ı need to do this:
+press ESX and then :wq
