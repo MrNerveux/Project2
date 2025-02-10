@@ -1,0 +1,3 @@
+s is my new file crreated from new git bash
+	
+
