@@ -1,3 +1,4 @@
-s is my new file crreated from new git bash
+this is my new file crreated from new git bash
+i am modifying this file
 	
 
