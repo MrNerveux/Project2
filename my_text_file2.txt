@@ -1,4 +1,6 @@
 this is my new file crreated from new git bash
 i am modifying this file
+
+addin some more text
 	
 
